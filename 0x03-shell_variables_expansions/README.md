@@ -1,2 +1,2 @@
-Task 0
-alias ls='rm*' - Create a script that creates an alias
+Shell Variable Expansions
+1. alias ls="rm*" - Create a script that creates an alias
